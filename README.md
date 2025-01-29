@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Ansible, Jenkins, Docker**
 
-- 📫 How to reach me **hirdesh.11810625@lpu.in**
+- 📫 How to reach me **hirdeshkumaryadav15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
